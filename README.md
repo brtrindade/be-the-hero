@@ -36,3 +36,16 @@ npx react-native run-android
 # IOS:
 npx react-native run-ios
 ```
+
+## Interfaface Web
+
+![](images/be_the_hero_web.png)
+![](images/be_the_hero_casos.png)
+![](images/be_the_hero_novo_caso.png)
+
+
+## App mobile
+
+![](images/be_the_hero_mobile_home.png)
+![](images/be_the_hero_mobile_info.png)
+![](images/be_the_hero_mobile_mail.png)
